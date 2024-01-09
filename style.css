@@ -1,0 +1,40 @@
+h1 {
+    text-align: center;
+    color: transparent;
+    font-size: 35px;
+}
+
+p {
+    text-align: center;
+    color: rgb(6, 243, 6);
+}
+pre {
+    display: none;
+
+  }
+
+  body {
+    background-image: url("image2.jpg");
+    height: 100vh;
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+    background-attachment: fixed;
+    background-blend-mode: soft-light; 
+        
+}
+button {
+    color:black;
+    padding: 8px 22px;
+    border-radius: 87px;
+    background: #ff000000;
+    transition: 0.2 ease;
+}
+h2 {
+    text-align: center;
+    color: rgb(10, 255, 2);
+    font-size: 30px;    
+}
+br{
+    display: 2px !important;
+}
